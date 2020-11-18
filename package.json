@@ -1,0 +1,19 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "check-types": "^11.1.2",
+    "chrome-launcher": "^0.13.4",
+    "fs": "0.0.1-security",
+    "lighthouse": "^6.4.1",
+    "url": "^0.11.0",
+    "yargs": "^16.1.1"
+  }
+}
